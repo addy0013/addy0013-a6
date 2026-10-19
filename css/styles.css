@@ -1,3 +1,10 @@
+
+/*checked with WebAIM*/
+body {
+  background-color: #F2C2E1;
+  color: #194159;
+}
+
 /* hiding skip link */
 .skip-link {
   position: absolute;
